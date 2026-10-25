@@ -1,16 +1,17 @@
-# quiz_app
+# Flutter Quiz App
 
-A new Flutter project.
+![Flutter Quiz App](project_thumbnail.png)
 
-## Getting Started
+A Flutter-based multiple-choice quiz application featuring
+subject selection, instant answer feedback, score calculation,
+and detailed results.
 
-This project is a starting point for a Flutter application.
+## App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Welcome Screen | Subject Selection |
+|---|---|
+| ![Welcome](screenshots/welcome.png) | ![Subjects](screenshots/subjects.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Quiz Screen | Results Screen |
+|---|---|
+| ![Quiz](screenshots/quiz.png) | ![Results](screenshots/results.png) |
